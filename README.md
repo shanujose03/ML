@@ -9,7 +9,8 @@ Features:
 ![Age vs Charges ](sampleImages/AgevsCharges.png)
 ![Smoker vs Charges](sampleImages/SmokervsCharges.png)
 ![BMI vs Charges](sampleImages/BmivsCharges.png)
-Deployment
+Accuracy : 0.86 for Random Forest Model
+DEPLOYMENT
 ![App demo](sampleImages/demo.png)
 
 
