@@ -10,6 +10,7 @@ Features:
 ![Smoker vs Charges](sampleImages/SmokervsCharges.png)
 ![BMI vs Charges](sampleImages/BmivsCharges.png)
 Accuracy : 0.86 for Random Forest Model
+
 DEPLOYMENT
 ![App demo](sampleImages/demo.png)
 
