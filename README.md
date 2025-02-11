@@ -10,7 +10,7 @@ Features:
 ![Smoker vs Charges](sampleImages/SmokervsCharges.png)
 ![BMI vs Charges](sampleImages/BmivsCharges.png)
 Deployment
-![App demo](staticImages/demo.png)
+![App demo](sampleImages/demo.png)
 
 
 
