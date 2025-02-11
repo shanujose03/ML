@@ -10,7 +10,7 @@ Exploratory Data Analysis
 ![Smoker vs Charges](sampleImages/SmokervsCharges.png)
 ![BMI vs Charges](sampleImages/BmivsCharges.png)
 Deployment
-![App demo](static/prediction.png)
+![App demo](staticImages/demo.png)
 
 
 
