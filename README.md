@@ -10,6 +10,7 @@ Features:
 ![Smoker vs Charges](sampleImages/SmokervsCharges.png)
 ![BMI vs Charges](sampleImages/BmivsCharges.png)
 OUTLIER DETECTION : One class svm have been used for detecting the outliers.
+
 Accuracy : 0.86 for Random Forest Model
 
 DEPLOYMENT
